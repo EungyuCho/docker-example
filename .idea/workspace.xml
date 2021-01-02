@@ -10,9 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cec048d-22df-4b72-bc1c-50ea6573876b" name="Default Changelist" comment="5. react app compose test 및 run">
+    <list default="true" id="8cec048d-22df-4b72-bc1c-50ea6573876b" name="Default Changelist" comment="6. react app with ngnix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-react-app/production.dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/docker-react-app/production.dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +47,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="15.3.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.14.17" />
-    <property name="last_opened_file_path" value="$USER_HOME$/WebstormProjects/algorism" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../docker-react-app" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -85,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1609493014314</updated>
       <workItem from="1609493015384" duration="3140000" />
-      <workItem from="1609542669399" duration="14478000" />
+      <workItem from="1609542669399" duration="14997000" />
     </task>
     <task id="LOCAL-00001" summary="3. source만 변경 시 npm install skip">
       <created>1609543767187</created>
@@ -108,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609593522236</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="6. react app with ngnix">
+      <created>1609598328510</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609598328510</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,17 +135,18 @@
     <MESSAGE value="3. source만 변경 시 npm install skip" />
     <MESSAGE value="4. docker compose 예제 추가" />
     <MESSAGE value="5. react app compose test 및 run" />
-    <option name="LAST_COMMIT_MESSAGE" value="5. react app compose test 및 run" />
+    <MESSAGE value="6. react app with ngnix" />
+    <option name="LAST_COMMIT_MESSAGE" value="6. react app with ngnix" />
   </component>
   <component name="WindowStateProjectService">
     <state x="707" y="325" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609584450989">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="707" y="325" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1609584450989" />
-    <state x="747" y="284" key="FileChooserDialogImpl" timestamp="1609557227101">
+    <state x="747" y="284" key="FileChooserDialogImpl" timestamp="1609598786489">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="747" y="284" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1609557227101" />
+    <state x="747" y="284" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1609598786489" />
     <state width="1882" height="266" key="GridCell.Tab.0.bottom" timestamp="1609493563542">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
