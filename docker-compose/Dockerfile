@@ -11,6 +11,6 @@ COPY package.json ./
 
 RUN npm install
 
-COPY .. /usr/src/app
+COPY ./ /usr/src/app
 
 CMD ["node", "app.js"]
